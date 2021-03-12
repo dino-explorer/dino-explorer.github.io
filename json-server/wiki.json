@@ -1,0 +1,5 @@
+[
+    {"id":"00001", "text":"恐龙", "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Dinosauria_montage_2.jpg/390px-Dinosauria_montage_2.jpg", "link":"https://zh.wikipedia.org/wiki/%E6%81%90%E9%BE%99"},
+    {"id":"00002", "text":"暴龙", "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Palais_de_la_Decouverte_Tyrannosaurus_rex_p1050042.jpg/330px-Palais_de_la_Decouverte_Tyrannosaurus_rex_p1050042.jpg", "link":"https://zh.wikipedia.org/wiki/%E6%9A%B4%E9%BE%8D%E5%B1%AC"},
+    {"id":"00003", "text":"长颈龙", "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tanystropheus_BW.jpg/330px-Tanystropheus_BW.jpg", "link":"https://zh.wikipedia.org/wiki/%E9%95%B7%E9%A0%B8%E9%BE%8D%E5%B1%AC"}
+]

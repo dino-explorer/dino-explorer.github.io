@@ -1,0 +1,7 @@
+{
+    "frequency": "60s",
+    "dynamic-server":"https://192.168.0.100",
+    "ads":[
+        {"img":"https://www.xxx.com/111.jpg", "text":"ads title", "link":"http://www.xxx.com"}
+    ]
+}
